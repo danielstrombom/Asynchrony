@@ -1,16 +1,16 @@
 INSTRUCTIONS FOR (RE)GENERATING FIGURES 2-6 and S1 VIA NEW SIMULATIONS OR FROM APPENDED DATA.
 
 
-Download the folders Fig2-3, Fig4, Fig5 and Fig6S1 to your computer.
+Download the folders Fig2, Fig4, Fig5 and Fig6S1 to your computer.
 
 
 (RE)GENERATE FIG 2 AND FIG 3
 
-Set Fig2-3 as Current Folder in Matlab.
+Set Fig2 as Current Folder in Matlab.
 
 To run a complete set of new simulations and generate new Fig 2 and 3 run the script LabSynchS.m. This script calls the main simulation function (SynchS.m) 100 times for each c from 0.04 to 2 in increments of 0.02. May take many hours to finish. 
 
-To regenerate Fig 2 and 3 from the same data used for the figures in the manuscript set Current Folder Fig2-3 > Data and run plotFig2.m and plotFig3.m.
+To regenerate Fig 2 and 3 from the same data used for the figures in the manuscript set Current Folder Fig2 > Data and run plotFig2.m and plotFig3.m.
 
 
 NOTE: Figure/font size, colour/width of lines and other superficial features of the plots you generated will/may differ from the ones in the manuscript, but the actual values (means and std dev) will be identical if you regenerated them from the appended data.
