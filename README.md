@@ -1,3 +1,6 @@
+Code for Strömbom, D., Hassan, T., Hunter Greis, W., & Antia, A. (2019). Asynchrony induces polarization in attraction-based models of collective motion. Royal Society open science, 6(4), 190381. https://doi.org/10.1098/rsos.190381
+
+
 INSTRUCTIONS FOR (RE)GENERATING FIGURES 2-6 and S1 VIA NEW SIMULATIONS OR FROM APPENDED DATA.
 
 
